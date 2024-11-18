@@ -1,6 +1,6 @@
 # Análisis Predictivo y Estadístico de Sneaker Reselling en StockX
 
-Este proyecto realiza un análisis exhaustivo del mercado de reventa de sneakers utilizando datos de la plataforma **StockX**. Combina técnicas estadísticas, exploración de datos y modelado predictivo para identificar patrones de precios, factores que influyen en la rentabilidad, y oportunidades para maximizar ganancias en este mercado.
+Este proyecto realiza un análisis exhaustivo del mercado de reventa de sneakers utilizando datos de la plataforma **StockX**. Combina técnicas estadísticas, exploración de datos y modelado predictivo para identificar patrones de precios, factores que influyen en la rentabilidad, y oportunidades para maximizar ganancias en este mercado. Este trabajo fue presentado como proyecto final del primer modulo del diplomado de **Machine laerning y data science** de la UNAL.
 
 ## Contenido del Proyecto
 
